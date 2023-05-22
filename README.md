@@ -4,10 +4,10 @@ I'm Guilherme, a passionate backend developer based in São Paulo, Brazil. Welco
 
 ## About Me
 
-- 🔭 I'm currently studying Bachelor of Computer Science at UNESP
-- 🔭 I'm currently working on SOAP/REST APIs migrations and smart chatbots with natural language understanding integration.
-- 🌱 I’m currently learning React framework.
-- 📫 How to reach me: guilherme.cardoso-oliveira@unesp.br
+- 🎓 I'm currently studying Bachelor of Computer Science at UNESP
+- 💼 I'm currently working on SOAP/REST APIs migrations and smart chatbots with natural language understanding integration.
+- 📚 I’m currently learning React framework.
+- 📧 How to reach me: guilherme.cardoso-oliveira@unesp.br
 
 ## Languages and Tools
 
