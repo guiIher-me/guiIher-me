@@ -1,6 +1,6 @@
 # 🤠 About Me:
 > A man of focus, commitment and sheer will ✏.
-- 💼 I currently work as a **´Project Manager** managing projects involving smart agents.
+- 💼 I currently work as a **Project Manager** managing projects involving smart agents.
 - 📧 How to reach me: **<a href="mailto:guilherme.cardoso-oliveira@unesp.br" target="_blank">guilherme.cardoso-oliveira@unesp.br</a>**
 
 # 🔥 Tech Stack:
